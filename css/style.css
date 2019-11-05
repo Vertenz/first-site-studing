@@ -3848,3 +3848,11 @@ text-align: left;
 .menuFooter > li {
     margin: 0;
 }
+
+.nameC {
+    text-transform: capitalize;
+}
+
+.emailC {
+    text-transform: lowercase;
+}
